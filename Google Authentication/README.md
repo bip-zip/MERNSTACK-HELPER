@@ -42,7 +42,7 @@ npm install axios gapi-script react-google-login
 
 Go through sample LoginGoogle.js and Login.js.
 
-Voila! You are all done.✔
+Ta-Da! You are all done.✔
 Don't forget to give me a ⭐. Peace 🍀
 
 
